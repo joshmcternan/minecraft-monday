@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+ 
+ <html> 
+ 
+<head> 
+<title>minecraft monday</title>
+</head> 
+ 
+<body>  
+ 
+<h1> minecraft monday </h1> 
+ 
+<p> our email is minecraftmonday13@outlook.com or you you can follow us on tiktok our name on that is minecraftmondayman </p>    
+
+</body> 
+ 
+</html>
+a href='website.html'>page one</a>
